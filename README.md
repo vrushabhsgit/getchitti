@@ -6,12 +6,13 @@ getshity turns one business goal into a coordinated team of AI agents that resea
 
 ## Agent Team
 
-* 🔍 Research Agent
-* 🛠️ Builder Agent
-* 📣 Marketing Agent
-* 💼 Sales Agent
-* 🎧 Support Agent
-* 🧠 Coordinator Agent
+* Research Agent
+* Builder Agent
+* Marketing Agent
+* Sales Agent
+* Support Agent
+* Coordinator Agent
+* Many more according to your need ..... 
 
 ## How It Works
 
