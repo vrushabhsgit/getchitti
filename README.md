@@ -1,8 +1,8 @@
-# getshity
+# getchitti
 
 > **Give it a goal. Get a team.**
 
-getshity turns one business goal into a coordinated team of AI agents that research, build, market, sell, and support your company together.
+getchitti turns one business goal into a coordinated team of AI agents that research, build, market, sell, and support your company together.
 
 ## Agent Team
 
